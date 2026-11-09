@@ -1,3 +1,4 @@
+#Program to check the string is palindrome or not
 def palindrome(st):
     i=0
     j=len(st)-1

@@ -1,3 +1,4 @@
+#Program to show the string after removing the vowels
 def string2(st):
     newstr = ''
     for char in st:

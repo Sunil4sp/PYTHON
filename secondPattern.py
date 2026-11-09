@@ -1,3 +1,4 @@
+#Program to add all the elements of list and print the sum
 def addsum(mylist):
     sum1 = 0
     for i in myList:

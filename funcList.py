@@ -1,3 +1,4 @@
+#Program to use if elif
 def namegender(name,gender):
     if gender == 'm':
         print("Mr.", name)

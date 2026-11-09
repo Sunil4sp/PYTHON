@@ -1,3 +1,4 @@
+#Program to count the characters of the string
 def string1(ch, str1):
     count = 0
     for char in str1:
